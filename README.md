@@ -1,2 +1,2 @@
 # Practice_1
-- select
+- select*
